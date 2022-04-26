@@ -24,3 +24,11 @@ footer{
     text-align: center;
     font-style: italic;
 }
+
+#imagem{
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    padding: 0px;
+    margin: 1px;
+}
